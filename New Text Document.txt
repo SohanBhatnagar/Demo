@@ -1,7 +1,8 @@
 #include<iostream>
-using namespace std;
+#include<Windows.h>
+#include<stdlib.h>
 int main()
 {
-	cout << "Hello there" << endl;
+	cout <<"Hello there" << endl;
 	return 0;
 }
