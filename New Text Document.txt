@@ -3,7 +3,6 @@
 #include<stdlib.h>
 int main()
 {
-	//this is a master branch
 	cout <<"Hello there" << endl;
 	return 0;
 }
