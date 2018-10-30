@@ -4,6 +4,9 @@
 int main()
 {
 	//this comments is in the doc1 branch
+	int i;
+	cin >> i;
+	cout << i;
 	cout <<"Hello there" << endl;
 	return 0;
 }
