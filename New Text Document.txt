@@ -1,12 +1,1 @@
-#include<iostream>
-#include<Windows.h>
-#include<stdlib.h>
-int main()
-{
-	//this comments is in the doc1 branch
-	int i;
-	cin >> i;
-	cout << i;
-	cout <<"Hello there" << endl;
-	return 0;
-}
+This file is in master
